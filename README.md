@@ -1,9 +1,14 @@
-# ReID_framework
+<h1>Re-ID framework </h1>
+<p>
  Person Re-ID framework in development during my PhD with the collaboration of Prof. Dr. William Robson Schwartz (UFMG).
  
  In this framework we have implemented the following works:
+</p>
+
+<h2 style="color: #2e6c80;">Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015</h2>
+
  
- Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015.
+<b> Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015 </b>
  
  @inproceedings{Prates:2015:ICIP2015,
 title = {CBRA: Color-Based Ranking Aggregation for Person Re-Identification},
@@ -16,7 +21,7 @@ pages = {1-5},
 keywords = {}
 }
  
- Raphael Prates, William R. Schwartz, “Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,” in International Conference on Biometrics (ICB), 2015.
+ <b> Raphael Prates, William R. Schwartz, “Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,” in International Conference on Biometrics (ICB), 2015.</b>
  
  @inproceedings{Prates:2015:ICBb,
 title = {Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation},
@@ -31,7 +36,7 @@ keywords = {}
 }
 
  
- Raphael Prates, Cristiane Dutra and William R. Schwartz, “PREDOMINANT COLOR NAME INDEXING STRUCTURE FOR PERSON RE-IDENTIFICATION,” in IEEE ICIP, 2016.
+ <b> Raphael Prates, Cristiane Dutra and William R. Schwartz, “Predominant Color Name Indexing Structure for Person Re-Identification,” in IEEE ICIP, 2016</b>.
  
  @inproceedings{Prates:2016:ICIP2016,
 title = {CBRA: Color-Based Ranking Aggregation for Person Re-Identification},

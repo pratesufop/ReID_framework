@@ -7,7 +7,7 @@
 
 <b> Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015 </b>
 
-<table style="height: 21px;" width="26">
+<table style="height: 15px;" width="26">
 <tbody>
 <tr>
 <td style="text-align: center;">

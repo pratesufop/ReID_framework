@@ -65,8 +65,15 @@ vdate = {2015-00-00},</p>
 </tbody>
 </table>
 
+<h3>Instructions </h3>
 In order to reproduce the experiments you need to download the respective datasets:
 
 VIPER (https://vision.soe.ucsc.edu/node/178) - You need to include VIPER in a folder (.\datasets\viper\camX) where X is equal A or B for cameras A and B, respectively. 
 
 PRID450S (http://lrs.icg.tugraz.at/download.php) - You need to include PRID450S in a folder (.\datasets\prid450s\camX) where X is equal A or B for cameras A and B, respectively.
+
+You can run all the experiments from ReID_framework.m uncomment the respective line. The results are stored in the Folder (./Graphics). 
+
+Any question, please contact us: 
+
+pratesufop@gmail.com (Raphael Prates).

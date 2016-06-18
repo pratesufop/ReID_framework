@@ -5,22 +5,27 @@
  In this framework we have implemented the following works:
 </p>
 
-<h2 style="color: #2e6c80;">Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015</h2>
-
- 
 <b> Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015 </b>
- 
- @inproceedings{Prates:2015:ICIP2015,
-title = {CBRA: Color-Based Ranking Aggregation for Person Re-Identification},
-author = {R. F. de C. Prates and W. R. Schwartz},
-url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2015/06/paper_2015_ICIP_Prates.pdf},
-year = {2015},
-date = {2015-00-00},
-booktitle = {IEEE International Conference on Image Processing (ICIP)},
-pages = {1-5},
-keywords = {}
+
+<table style="height: 21px;" width="26">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p>@inproceedings{Prates:2015:ICIP2015,</p>
+<p>title = {CBRA: Color-Based Ranking Aggregation for Person Re-Identification},</p>
+<p>author = {R. F. de C. Prates and W. R. Schwartz},</p>
+<p>url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2015/06/paper_2015_ICIP_Prates.pdf},</p>
+<p>year = {2015},</p>
+vdate = {2015-00-00},</p>
+<p>booktitle = {IEEE International Conference on Image Processing (ICIP)},</p>
+<p>pages = {1-5},</p>
 }
+</td>
+</tr>
+</tbody>
+</table>
  
+ </p>
  <b> Raphael Prates, William R. Schwartz, “Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,” in International Conference on Biometrics (ICB), 2015.</b>
  
  @inproceedings{Prates:2015:ICBb,

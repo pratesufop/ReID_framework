@@ -16,56 +16,91 @@
 Raphael Prates and William Robson Schwartz, “Kernel Hierarchical PCA for Person Re-Identification,” in ICPR, 2016.
 
 @inproceedings{Prates2016ICPR,
+
 title = {Kernel Hierarchical PCA for Person Re-Identification},
+
 author = {Raphael Prates and William Robson Schwartz},
+
 url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2016/07/kernelHPCA.pdf},
+
 year = {2016},
+
 date = {2016-12-13},
+
 booktitle = {23th International Conference on Pattern Recognition, ICPR 2016, Cancun, MEXICO, December 4-8, 2016.}
+
 }
 
 Raphael Prates, Marina Oliveira and William Robson Schwartz, “Kernel Partial Least Squares for Person Re-Identification,” in IEEE AVSS, 2016.
 
 @inproceedings{Prates2016AVSS,
+
 title = {Kernel Partial Least Squares for Person Re-Identification},
+
 author = {Raphael Prates and Marina Oliveira and William Robson Schwartz},
+
 url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2016/07/egpaper_for_DoubleBlindReview.pdf},
+
 year = {2016},
+
 date = {2016-08-24},
+
 booktitle = {IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS)}
+
 }
 
 Raphael Prates, Cristiane Dutra and William R. Schwartz, “Predominant Color Name Indexing Structure for Person Re-Identification,” in IEEE ICIP, 2016.
 
 @inproceedings{Prates:2015:ICIP2015,
+
 title = {Predominant Color Names Indexing Structure for Person Re-Identification},
+
 author = {R. F. de C. Prates, Dutra, C. R. S. and W. R. Schwartz},
+
 year = {2016},
+
 booktitle = {IEEE International Conference on Image Processing (ICIP)},
+
 pages = {1-5},
+
 }
 
 Raphael Prates, William R. Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015
 
 @inproceedings{Prates:2015:ICIP2015,
+
 title = {CBRA: Color-Based Ranking Aggregation for Person Re-Identification},
+
 author = {R. F. de C. Prates and W. R. Schwartz},
+
 url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2015/06/paper_2015_ICIP_Prates.pdf},
+
 year = {2015},
+
 booktitle = {IEEE International Conference on Image Processing (ICIP)},
+
 pages = {1-5}
+
 }
 
 Raphael Prates, William R. Schwartz, “Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,” in International Conference on Biometrics (ICB), 2015.
 
 @inproceedings{Prates:2015:ICBb,
+
 title = {Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation},
+
 author = author = {R. F. de C. Prates and W. R. Schwartz},
+
 url = {http://www.ssig.dcc.ufmg.br/wp-content/uploads/2015/06/paper_2015_ICB_Prates.pdf},
+
 year = {2015},
+
 booktitle = {International Conference on Biometrics},
+
 series = {Lecture Notes in Computer Science},
+
 pages = {1-8}
+
 }
 
 Instructions:

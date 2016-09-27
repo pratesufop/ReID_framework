@@ -4,17 +4,33 @@ Person Re-ID framework in development during my PhD with the collaboration of Pr
  
 In this framework we have implemented the following works:
  
-1. Raphael Prates, William Robson Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015.
- 
-2. Raphael Prates, William Robson Schwartz, “Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,” in International Conference on Biometrics (ICB), 2015.
- 
-3. Raphael Prates, Cristiane Dutra and William R. Schwartz, “PREDOMINANT COLOR NAME INDEXING STRUCTURE FOR PERSON RE-IDENTIFICATION,” in IEEE ICIP, 2016.
- 
-4. Raphael Prates, Marina Oliveira and William Robson Schwartz, “Kernel Partial Least Squares for Person Re-Identification,” in IEEE AVSS, 2016.
- 
-5. Raphael Prates and William Robson Schwartz, “Kernel Hierarchical PCA for Person Re-Identification,” in ICPR, 2016.
-
 <p><a href="http://www.ssig.dcc.ufmg.br/reid-results/"><strong>Click here</strong></a> for a comprehensive list with&nbsp;results for several person re-identification datasets.</p>
+<p>&nbsp;</p>
+<table style="height: 217px;" width="525">
+<tbody>
+<tr>
+<td>
+<ol>
+<li>
+<p style="text-align: justify;"><strong>Raphael Prates, William Robson Schwartz, &ldquo;CBRA &ndash; Color-Based Ranking Aggregation for Person Re-Identification,&rdquo; in IEEE ICIP, 2015.</strong></p>
+</li>
+<li style="text-align: justify;">
+<p><strong>Raphael Prates, William Robson Schwartz, &ldquo;Appearance-Based Person Re-identification by Intra-Camera Discriminative Models and Rank Aggregation,&rdquo; in International Conference on Biometrics (ICB), 2015.</strong></p>
+</li>
+<li style="text-align: justify;">
+<p><strong>Raphael Prates, Cristiane Dutra and William R. Schwartz, &ldquo;PREDOMINANT COLOR NAME INDEXING STRUCTURE FOR PERSON RE-IDENTIFICATION,&rdquo; in IEEE ICIP, 2016.</strong></p>
+</li>
+<li style="text-align: justify;">
+<p><strong>Raphael Prates, Marina Oliveira and William Robson Schwartz, &ldquo;Kernel Partial Least Squares for Person Re-Identification,&rdquo; in IEEE AVSS, 2016.</strong></p>
+</li>
+<li>
+<p style="text-align: justify;"><strong>Raphael Prates and William Robson Schwartz, &ldquo;Kernel Hierarchical PCA for Person Re-Identification,&rdquo; in ICPR, 2016.</strong></p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 
 Raphael Prates and William Robson Schwartz, “Kernel Hierarchical PCA for Person Re-Identification,” in ICPR, 2016.
 

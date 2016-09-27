@@ -1,7 +1,8 @@
 # ReID_framework
- Person Re-ID framework in development during my PhD with the collaboration of Prof. Dr. William Robson Schwartz (UFMG).
+
+Person Re-ID framework in development during my PhD with the collaboration of Prof. Dr. William Robson Schwartz (UFMG).
  
- In this framework we have implemented the following works:
+In this framework we have implemented the following works:
  
 1. Raphael Prates, William Robson Schwartz, “CBRA – Color-Based Ranking Aggregation for Person Re-Identification,” in IEEE ICIP, 2015.
  
@@ -12,6 +13,8 @@
 4. Raphael Prates, Marina Oliveira and William Robson Schwartz, “Kernel Partial Least Squares for Person Re-Identification,” in IEEE AVSS, 2016.
  
 5. Raphael Prates and William Robson Schwartz, “Kernel Hierarchical PCA for Person Re-Identification,” in ICPR, 2016.
+
+<p><a href="http://www.ssig.dcc.ufmg.br/reid-results/"><strong>Click here</strong></a> for a comprehensive list with&nbsp;results for several person re-identification datasets.</p>
 
 Raphael Prates and William Robson Schwartz, “Kernel Hierarchical PCA for Person Re-Identification,” in ICPR, 2016.
 

@@ -23,6 +23,9 @@
 <li style="text-align: justify;">
 <blockquote><a title="Project Page - ICPR 2016" href="http://www.ssig.dcc.ufmg.br/kernel-hierarchical-pca-for-person-re-identification-icpr-2016/">Raphael Prates and William Robson Schwartz, &ldquo;Kernel Hierarchical PCA for Person Re-Identification,&rdquo; in ICPR, 2016.</a></blockquote>
 </li>
+<li style="text-align: justify;">
+<blockquote><a title="Project Page - ARXIV 2016" href="http://www.ssig.dcc.ufmg.br/kernel-cross-view-collaborative-representation-based-classification-for-person-re-identification/"> Raphael Prates and William Robson Schwartz, &ldquo; Kernel Cross-View Collaborative Representation based Classification for Person Re-Identification &rdquo; in ARXIV, 2016.</a></blockquote>
+</li>
 </ol>
 </td>
 </tr>

@@ -29,8 +29,16 @@ dataset = 'viper';
 % and save jointly with data.
 
 % To run our AVSS2016 code.
-filename = 'myGraphAVSS2016';
-AVSS2016(filename, dataset)
+%filename = 'myGraphAVSS2016';
+%AVSS2016(filename, dataset)
 
 %To run our ICPR2016 code.
 %ICPR2016(filename, dataset)
+
+%To run our ARXIV paper (Kernel Cross-View Collaborative Representation based Classification for Person Re-Identification )
+if strcmp(dataset,'viper')
+	demo_viper
+else if strcmp(dataset,'cuhk01')
+        demo_cuhk01
+	 end
+end

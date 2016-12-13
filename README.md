@@ -23,9 +23,7 @@
 <li style="text-align: justify;">
 <blockquote><a title="Project Page - ICPR 2016" href="http://www.ssig.dcc.ufmg.br/kernel-hierarchical-pca-for-person-re-identification-icpr-2016/">Raphael Prates and William Robson Schwartz, &ldquo;Kernel Hierarchical PCA for Person Re-Identification,&rdquo; in ICPR, 2016.</a></blockquote>
 </li>
-<li style="text-align: justify;">
-<blockquote><a title="Project Page - ARXIV 2016" href="http://www.ssig.dcc.ufmg.br/kernel-cross-view-collaborative-representation-based-classification-for-person-re-identification/"> Raphael Prates and William Robson Schwartz, &ldquo; Kernel Cross-View Collaborative Representation based Classification for Person Re-Identification &rdquo; in ARXIV, 2016.</a></blockquote>
-</li>
+
 </ol>
 </td>
 </tr>
@@ -122,28 +120,6 @@
 <p>date = {2016-12-13},</p>
 <p>booktitle = {23th International Conference on Pattern Recognition, ICPR 2016, Cancun, MEXICO, December 4-8, 2016.}</p>
 <p>}</p>
-</blockquote>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Paper 6.&nbsp;<strong>&ldquo;Kernel Cross-View Collaborative Representation based Classification for Person Re-Identification&rdquo; (ARXIV 2016).</strong></p>
-<table style="height: 214px;" width="578">
-<tbody>
-<tr>
-<td>
-<blockquote>
-<p>@inproceedings{Prates2016ARXIV,</p>
-<p>title = {Kernel Cross-View Collaborative Representation based Classification for Person Re-Identification},</p>
-<p>author = {Raphael Prates and William Robson Schwartz},</p>
-<p>url = {https://arxiv.org/pdf/1611.06969v1.pdf},</p>
-<p>year = {2016}</p>
-<p>}</p>
-</blockquote>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Instructions:</h3>
